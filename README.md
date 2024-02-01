@@ -1,2 +1,2 @@
-# Data-science
-Making some data science programs
+# Data-analysis
+Making some data analysis programs
